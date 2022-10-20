@@ -25,7 +25,7 @@ app.set("view engine", "hbs");
 
 
 app.get('/',(req, res)=>{
-    res.render('index')
+    res.render('login')
 })
 app.get('/login',(req, res)=>{
     res.render('login')
@@ -59,7 +59,7 @@ app.post("/registeration", async(req,res)=>{
             })
 
            const userregister = await userregisteration.save();
-           res.status(201).render("index");
+           res.status(201).render("login");
            
      
 })
