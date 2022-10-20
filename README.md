@@ -19,8 +19,9 @@ There is first Index Pages
 ![image](https://user-images.githubusercontent.com/96713971/196822367-4f354a58-5cca-4c57-9b75-128de6a80ee0.png)
 
 
-#1- login Page
-For login in this website first you have to signup into the website
+# 2- login Page
+ # For login in this website first you have to signup into the website
+
 ![image](https://user-images.githubusercontent.com/96713971/196822503-955a3e46-859f-49ca-a8c0-f7437083b7f0.png)
 
 # 1- SignUp page
@@ -28,7 +29,7 @@ After the signup you will get redirected to the index page
 
 ![image](https://user-images.githubusercontent.com/96713971/196822560-01ad3e0d-b8ac-405c-821d-18523f6f823e.png)
 
-# 1- Contact us Page
+# 3- Contact us Page
 
 
 ![image](https://user-images.githubusercontent.com/96713971/196822605-a8c4092b-3d5c-4b25-8bea-e5734821af90.png)
