@@ -8,8 +8,7 @@ For the frontend part I uses simply  bootstrap V5.0
 For database connection with mongoDB
 
 
-3->
-# HBS
+3->  HBS
 
 # Pages of the website 
 There is first Index Pages
